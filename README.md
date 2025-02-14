@@ -1,2 +1,2 @@
-# Data-Structures-Algorithms-
+# DataStructures Algorithms
 Problem Solving &amp; Pattern Grind
